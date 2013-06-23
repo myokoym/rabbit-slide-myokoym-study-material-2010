@@ -1,0 +1,28 @@
+= WWW検索技術
+
+: subtitle
+   利用者の視点から
+: author
+   Masafumi Yokoyama
+# : institution
+#    所属
+# : content-source
+#    イベント名
+: date
+   2013/06/24
+: allotted-time
+   10m
+: theme
+   clear-blue
+
+= 最初のスライド
+
+  * 項目1
+  * 項目2
+  * 項目3
+
+= 二番目のスライド
+
+  # image
+  # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
+  # relative_height = 100
