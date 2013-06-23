@@ -10,5 +10,7 @@ include_theme("lightning-clear-blue")
 end
 
 match(TitleSlide, Author) do |element|
-  element.padding_top = @space * 3
+  element.padding_top = @space * 2
+  element.prop_set("style", "italic")
+  element.prop_set("size", 40 * Pango::SCALE)
 end
