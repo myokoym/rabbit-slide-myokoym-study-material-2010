@@ -1,6 +1,6 @@
-= WWW検索技術 - 利用者の視点から
+= Web検索技術 - 利用者の視点から
 
-利用者の視点から、WWW検索技術を考えます。
+利用者の視点から、Web検索技術を考えます。
 
 （2010年に作成した資料の焼き直しです）
 
@@ -18,9 +18,9 @@
 
 === インストール
 
-  gem install rabbit-slide-myokoym-study-material-2010
+  gem install rabbit-slide-myokoym-web-search-2010
 
 === 表示
 
-  rabbit rabbit-slide-myokoym-study-material-2010.gem
+  rabbit rabbit-slide-myokoym-web-search-2010.gem
 

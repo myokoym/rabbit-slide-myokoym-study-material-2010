@@ -1,10 +1,14 @@
 ---
-id: study-material-2010
-base_name: www-search-technology-for-users
-tags: []
-presentation_date: 
-version: 1.0.0
-licenses: []
+id: web-search-2010
+base_name: web-search-technique-for-users
+tags:
+- rabbit
+- web
+- search
+presentation_date: 2013/06/24
+version: 2013.6.24.1
+licenses:
+- CC BY-SA 3.0
 slideshare_id: 
 speaker_deck_id: 
 ustream_id: 
